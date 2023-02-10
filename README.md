@@ -1,2 +1,2 @@
 # isolate_analysis
-General pipeline I use for short read sequencing raw reads through assembly and QC
+General pipelines I use for short- and long-read sequencing analysis, raw reads through assembly and QC
