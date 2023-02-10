@@ -11,7 +11,6 @@
 #Submission script for HTCF
 #SBATCH --time=1-00:00:00 # days-hh:mm:ss
 #SBATCH --job-name=snippy_core
-#SBATCH --array=1
 #SBATCH --mem=30G
 #SBATCH --cpus-per-task=8
 #SBATCH --output=slurm_out/snippy_core/z_snippy_%a_%A.out
