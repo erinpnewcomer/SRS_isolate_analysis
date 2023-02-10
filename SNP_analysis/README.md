@@ -9,5 +9,5 @@ This analysis is done using snippy https://github.com/tseemann/snippy
 * Runs the actual SNP calculations.
 3. s01_parseVCF.sh/parseVCF_cluster.R
 * Parses the VCF file to a more usable format by running parseVCF_cluster.R
-4. s02_pairwiseDistances.sh
+4. s02_pairwiseDistances.sh/calcSampleDist.py
 * Uses the parsed VCF file to make an organized tab-delimited file of iso1  iso2  SNPdistance
